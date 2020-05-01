@@ -7,5 +7,5 @@
 
 ## Parametry
 * voltageset 233	//V
-* powerset 40	//Watt
+* powerset 40	    //Watt
 * currentset 173	//A (40w/233v=172mA)
